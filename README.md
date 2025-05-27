@@ -34,7 +34,7 @@ This project is an engaging and dynamic web-based quiz application. Designed to 
 ![Quiz ScreenShot 3](images/Screenshot3.png)
 
 ## When Score Above 1
-![Quiz ScreenShot 3](images/Screensho4.png)
+![Quiz ScreenShot 3](images/Screenshot4.png)
 
 ## When Score 1
 ![Quiz ScreenShot 3](images/Screenshot5.png)
