@@ -22,6 +22,26 @@ This project is an engaging and dynamic web-based quiz application. Designed to 
 
 ---
 
+## Screenshots
+
+## Start 
+![Quiz ScreenShot 1](images/Screenshot1.png)
+
+## While Playing Quiz
+![Quiz ScreenShot 2](images/Screenshot2.png)
+
+## When Score Above 3
+![Quiz ScreenShot 3](images/Screenshot3.png)
+
+## When Score Above 1
+![Quiz ScreenShot 3](images/Screensho4.png)
+
+## When Score 1
+![Quiz ScreenShot 3](images/Screenshot5.png)
+
+
+---
+
 ## Technologies Used
 * **HTML5:** Provides the foundational structure for the quiz application.
 * **CSS3:** Handles all styling, layout, responsive design, and animations for a visually appealing experience.
