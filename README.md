@@ -57,10 +57,12 @@ Follow these simple steps to get the Quizania game running on your local machine
 ## Project Structure
 ```plaintext
 /
-├── index.html       # Main HTML file
-├── style.css        # CSS for styling and themes
-├── script.js        # JavaScript for Quiz logic and Score Tracking
-├── questions.js     # JavaScript for storing the questions
+├── index.html        # The main HTML file, structuring the quiz layout and content.
+├── style.css        # Contains all the CSS rules for styling the UI, animations, and responsive design.
+├── script.js        # The core JavaScript file, handling the quiz logic, timers, score tracking, and user interactions.
+├── questions.js     # A dedicated JavaScript file that stores all the quiz questions, options, and correct answers.
+├── images/          # Directory for project-related image assets.
+├── icon.png         # The custom favicon displayed in the browser tab.
 └── README.md        # This file
 ```
 
