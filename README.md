@@ -38,7 +38,7 @@ Follow these simple steps to get the Quizania game running on your local machine
 1.  **Clone the repository (or download the files):**
     If you're using Git, open your terminal or command prompt and run:
     ```bash
-    git clone 
+    git clone https://github.com/mohitgundal/Quiz-App.git
     ```
     
     Alternatively, you can just download the project files directly from GitHub as a ZIP archive.
@@ -46,13 +46,13 @@ Follow these simple steps to get the Quizania game running on your local machine
 2.  **Navigate to the project directory:**
     If you cloned the repository, change into the project folder:
     ```bash
-    cd YOUR_REPO_NAME
+    cd Quiz-App
     ```
 
 3.  **Open `index.html`:**
-    Locate the `index.html` file within the project directory and open it with your preferred web browser (e.g., Chrome, Firefox, Edge). No local server setup is required as this is a front-end only application.
-
----
+    Locate the `index.html` file within the project directory and open it with your preferred web browser (e.g., Chrome, Firefox, Edge).
+    No local server setup is required as this is a front-end only application.
+   ---
 
 ## Project Structure
 ```plaintext
