@@ -107,8 +107,10 @@ Feel free to:
 ## 📄 License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
+---
 
-🙋‍♂️ Author
+
+## 🙋‍♂️ Author
 Made with ❤️ by Mohit Gundal
 Let’s connect:
 
@@ -119,5 +121,5 @@ Let’s connect:
 ---
 
 
-🙏 Thank You for Checking Out This Project!
+## 🙏 Thank You for Checking Out This Project!
 If you found it helpful, please ⭐ the repo and share it!
