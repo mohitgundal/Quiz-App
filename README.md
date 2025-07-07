@@ -1,48 +1,56 @@
-# Quizania - Interactive Web Quiz
+# 🧠 Quizania - Interactive Web Quiz
+
+![GitHub Stars](https://img.shields.io/github/stars/mohitgundal/Quiz-App?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/mohitgundal/Quiz-App?style=social)
+![GitHub License](https://img.shields.io/github/license/mohitgundal/Quiz-App)
+![Visitor Count](https://komarev.com/ghpvc/?username=mohitgundal&label=Repo+Views&color=blue)
+
+**Quizania** is a fun and interactive general knowledge quiz built with **HTML**, **CSS**, and **JavaScript**.  
+It challenges users with multiple-choice questions, real-time feedback, a countdown timer, and an animated result screen with performance-based styling.
 
 ---
 
-## Description
-This project is an engaging and dynamic web-based quiz application. Designed to be both fun and informative, it allows users to test their general knowledge through a series of multiple-choice questions. The quiz features a clear user interface, a timer for each question, real-time feedback on answers, and a score-based result screen with dynamic background changes.
+## 🚀 Features
+- 📱 Clean & responsive design
+- 📋 Info screen with quiz rules
+- ⏳ Countdown timer for each question
+- 📊 Progress bar indicator
+- ✅ Instant feedback on answer selection
+- 📈 Real-time score tracking
+- 🔄 Randomized questions & options
+- 🎯 Performance-based result screen (with themed backgrounds)
+- 🔁 Replay or quit after completion
+- 🌟 Custom favicon for brand identity
 
 ---
 
-## Features
-* **Intuitive User Interface:** Clean and responsive design for an optimal user experience across devices.
-* **Start/Info Screen:** Provides clear quiz rules before the game begins.
-* **Countdown Timer:** Each question has a time limit (e.g., 15 seconds) to encourage quick thinking.
-* **Live Progress Bar:** A visual indicator shows the time remaining for the current question.
-* **Instant Feedback:** Users receive immediate visual feedback (correct/incorrect icons and highlighting) upon selecting an answer.
-* **Score Tracking:** Accurately tracks the user's score throughout the quiz.
-* **Dynamic Question Loading:** Questions and options are loaded from a separate JavaScript array, making it easy to extend or modify quiz content without touching core logic.
-* **Randomized Questions & Options:** Questions and their respective answer options are shuffled to ensure variety in each playthrough.
-* **Themed Result Screen:** Displays the final score with a motivational message and changes the body's background color based on performance (excellent, good, or low score).
-* **Replay/Quit Options:** Users can easily restart the quiz for another round or exit the game.
-* **Custom Favicon:** A unique browser tab icon (`images/icon.ico`) enhances brand recognition.
+## 🌐 Live Demo
+
+👉 [Play Quizania Online](https://mohitgundal.github.io/Quiz-App)
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
-## Start 
+## 🟢 Start Screen  
 ![Quiz ScreenShot 1](images/Screenshot1.png)
 
-## While Playing Quiz
+## 🟡 During Quiz  
 ![Quiz ScreenShot 2](images/Screenshot2.png)
 
-## When Score Above 3
+## 🟣 Score > 3 
 ![Quiz ScreenShot 3](images/Screenshot3.png)
 
-## When Score Above 1
+## 🟠 Score = 2–3
 ![Quiz ScreenShot 3](images/Screenshot4.png)
 
-## When Score 1
+## 🔴 Score = 1  
 ![Quiz ScreenShot 3](images/Screenshot5.png)
 
 
 ---
 
-## Technologies Used
+## 🧰 Tech Stack
 * **HTML5:** Provides the foundational structure for the quiz application.
 * **CSS3:** Handles all styling, layout, responsive design, and animations for a visually appealing experience.
 * **JavaScript (ES6+):** Powers all interactive functionalities, including quiz logic, timer management, DOM manipulation, and dynamic content.
@@ -51,7 +59,20 @@ This project is an engaging and dynamic web-based quiz application. Designed to 
 
 ---
 
-## How to Run Locally
+## 📁 Folder Structure
+
+```plaintext
+Quiz-App/
+├── index.html       # Main structure file
+├── style.css        # All styles and responsiveness
+├── script.js        # Main quiz logic, scoring, timing
+├── questions.js     # Question bank (MCQs, options, answers)
+├── images/          # Screenshots and assets
+├── icon.png         # Custom favicon
+└── README.md        # Project documentation
+```
+
+## 💻 How to Run Locally
 
 Follow these simple steps to get the Quizania game running on your local machine:
 
@@ -74,31 +95,29 @@ Follow these simple steps to get the Quizania game running on your local machine
     No local server setup is required as this is a front-end only application.
    ---
 
-## Project Structure
-```plaintext
-/
-├── index.html        # The main HTML file, structuring the quiz layout and content.
-├── style.css        # Contains all the CSS rules for styling the UI, animations, and responsive design.
-├── script.js        # The core JavaScript file, handling the quiz logic, timers, score tracking, and user interactions.
-├── questions.js     # A dedicated JavaScript file that stores all the quiz questions, options, and correct answers.
-├── images/          # Directory for project-related image assets.
-├── icon.png         # The custom favicon displayed in the browser tab.
-└── README.md        # This file
-```
 
-## Contribution
-Feel free to fork the repository, make improvements, and submit pull requests. Issues and feature requests are also welcome!
+## 🤝 Contribution
+Contributions are welcome!
+Feel free to:
+-🍴 Fork the repo
+-✍️ Improve the app
+-📩 Open a pull request
+-💡 Suggest new features or file issues
 
-
-## License
+## 📄 License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
 
-## Contact
-Created by Mohit Gundal. Feel free to reach out for suggestions or collaborations!
+🙋‍♂️ Author
+Made with ❤️ by Mohit Gundal
+Let’s connect:
 
+📫 [LinkedIn](https://www.linkedin.com/in/mohitbuilds/)  
+🌐 [mohitbuilds.com](https://mohitbuilds.com)  
+📷 [Instagram](https://www.instagram.com/_mohitbuilds/)
 
-## Thank you for checking out this project! 😊
 ---
 
-Would you like me to help you customize this further, for example, adding badges, or writing a shorter summary?
+
+🙏 Thank You for Checking Out This Project!
+If you found it helpful, please ⭐ the repo and share it!
